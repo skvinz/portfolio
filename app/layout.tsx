@@ -7,8 +7,8 @@ import { cn } from "@/lib/utils";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Geovanni Labastida V.",
-  description: "Portfolio Geovanni Labastida Vázquez",
+  title: "Gustavo Vincenzo H. Paredes",
+  description: "Portfolio Vincenzo H. Paredes",
 };
 
 export default function RootLayout({
