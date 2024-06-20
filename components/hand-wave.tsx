@@ -11,7 +11,7 @@ const HandWave = () => {
         transition={{ duration: 0.5, delay: 1.6, repeat: 2 }}
         className="pr-5 flex items-center justify-center hover:text-current !text-white/100"
       >
-        <span className="text-5xl">👋🏽</span>
+        <span className="text-5xl">👋🏻</span>
       </motion.div>
     </>
   );
