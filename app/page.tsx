@@ -78,7 +78,7 @@ export default function Home() {
                 </h1>
               </ItemTransition>
               <div className="flex space-x-4">
-                <span className="text-4xl">🇲🇽</span>
+                <span className="text-4xl">🇵🇪</span>
                 <p className="text-xl text-white/80 sm:text-2xl text- font-semibold pb-5">
                   Ingeniero de Sistemas
                 </p>
